@@ -1,4 +1,4 @@
-#!/usr/bin/env pyhthon2
+#!/usr/bin/env python2
 import idc
 from syscall_def import *
 
